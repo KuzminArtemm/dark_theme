@@ -1,0 +1,9 @@
+.tumbler {
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+  border-radius: 50%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
